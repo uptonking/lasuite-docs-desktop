@@ -75,3 +75,8 @@ db.sqlite3
 .vscode/
 *.iml
 .devcontainer
+
+# ------ hidden-files ------
+uv.lock
+-bak-*
+*.bak
